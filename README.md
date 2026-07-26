@@ -53,7 +53,7 @@ school-management-workspace/
   `node --version` against that repo's CI config first. Using `nvm` to switch per-folder
   is the easiest workaround if you need to match exactly.
 - Access to a MongoDB instance (e.g. MongoDB Atlas) for the server's `MONGODB_URI`.
-  Ask **Dayib Abdi** (dayibabdi861@gmail.com) for access or a connection string.
+  Ask **Me** (dayibabdi861@gmail.com) for access or a connection string.
 - Real server secrets to put in `server/.env` (see §7   there's no `.env.example` in
   that repo yet, so these come from a teammate, not from any file in the repo).
   Ask **Dayib Abdi** (dayibabdi861@gmail.com) for the real values.
