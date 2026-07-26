@@ -1,0 +1,13 @@
+# Independently-cloned sibling repos — each has its own git history/remote.
+# Never remove these two lines; without them git would try to track the
+# cloned repos as embedded content.
+/server/
+/client/
+
+# Node
+node_modules/
+
+# OS / editor cruft
+.DS_Store
+*.log
+.vscode/
